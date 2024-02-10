@@ -1,0 +1,6 @@
+name: TicoAntiDesconexion
+main: com.daysuke.desconexion.Main
+author: Daysuke
+version: 1.0
+api-version: 1.13
+description: Evita que los jugadores sean expulsados con el motivo de desconexión.spam
